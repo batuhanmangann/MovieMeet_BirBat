@@ -22,4 +22,10 @@
     <ProjectReference Include="..\MovieMeet_EL\MovieMeet_EL.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Implementations\" />
+    <Folder Include="EmailService\" />
+  </ItemGroup>
+
 </Project>
